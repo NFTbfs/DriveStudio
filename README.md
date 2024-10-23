@@ -10,12 +10,6 @@ A 3DGS framework for omni urban scene reconstruction and simulation!
 </p>
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2408.16760">
-        <img src='https://img.shields.io/badge/arXiv-Paper-E6E6FA' height="28"/>
-    </a>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/08e6c613-f61a-4d0d-a2a9-1538fcd4f5ff" width="49%" style="max-width: 100%; height: auto;" />
   <img src="https://github.com/user-attachments/assets/d2a47e7d-2934-46de-94d6-85ea8a52aba6" width="49%" style="max-width: 100%; height: auto;" />
 </p>
