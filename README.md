@@ -10,9 +10,6 @@ A 3DGS framework for omni urban scene reconstruction and simulation!
 </p>
 
 <p align="center">
-    <!-- project -->
-    <a href="https://ziyc.github.io/omnire/"><img src="https://img.shields.io/badge/Project-Page-FFFACD" height="28"/></a>
-    <!-- paper -->
     <a href="https://arxiv.org/abs/2408.16760">
         <img src='https://img.shields.io/badge/arXiv-Paper-E6E6FA' height="28"/>
     </a>
